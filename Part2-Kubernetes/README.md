@@ -182,7 +182,3 @@ pipeline {
 ---
 
 ✅ **This project helps simulate a production-grade distributed CI/CD system inside Kubernetes.**
-
----
-
-# Developed by: **Sayantan Samanta**
